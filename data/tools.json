@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "category": "AI Chatbots",
+    "icon": "💬",
+    "url": "https://chat.openai.com",
+    "free": true,
+    "description": "Most popular AI chatbot by OpenAI",
+    "tags": [
+      "chat",
+      "gpt",
+      "openai"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Claude",
+    "category": "AI Chatbots",
+    "icon": "💬",
+    "url": "https://claude.ai",
+    "free": true,
+    "description": "Thoughtful AI by Anthropic",
+    "tags": [
+      "chat",
+      "anthropic"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gemini",
+    "category": "AI Chatbots",
+    "icon": "💬",
+    "url": "https://gemini.google.com",
+    "free": true,
+    "description": "Google's multimodal AI assistant",
+    "tags": [
+      "chat",
+      "google"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cursor",
+    "category": "AI Coding Assistance",
+    "icon": "👨‍💻",
+    "url": "https://cursor.sh",
+    "free": true,
+    "description": "AI-powered code editor",
+    "tags": [
+      "code",
+      "editor"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "GitHub Copilot",
+    "category": "AI Coding Assistance",
+    "icon": "👨‍💻",
+    "url": "https://github.com/features/copilot",
+    "free": false,
+    "description": "AI pair programmer by GitHub",
+    "tags": [
+      "code",
+      "github"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Midjourney",
+    "category": "AI Image Generation",
+    "icon": "🎨",
+    "url": "https://midjourney.com",
+    "free": false,
+    "description": "Stunning AI image generation",
+    "tags": [
+      "image",
+      "art"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "DALL-E",
+    "category": "AI Image Generation",
+    "icon": "🎨",
+    "url": "https://openai.com/dall-e-3",
+    "free": true,
+    "description": "OpenAI's text-to-image model",
+    "tags": [
+      "image",
+      "openai"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Stable Diffusion",
+    "category": "AI Image Generation",
+    "icon": "🎨",
+    "url": "https://stability.ai",
+    "free": true,
+    "description": "Open-source image generation",
+    "tags": [
+      "image",
+      "open-source"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Gamma",
+    "category": "AI Presentation",
+    "icon": "📊",
+    "url": "https://gamma.app",
+    "free": true,
+    "description": "AI-powered presentation builder",
+    "tags": [
+      "presentation",
+      "slides"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Canva",
+    "category": "AI Graphic Design",
+    "icon": "🖌️",
+    "url": "https://canva.com",
+    "free": true,
+    "description": "Design platform with AI features",
+    "tags": [
+      "design",
+      "graphics"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Zapier",
+    "category": "AI Workflow Automation",
+    "icon": "⚙️",
+    "url": "https://zapier.com",
+    "free": true,
+    "description": "Automate workflows between apps",
+    "tags": [
+      "automation",
+      "workflow"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Notion AI",
+    "category": "AI Productivity",
+    "icon": "⚡",
+    "url": "https://notion.so/ai",
+    "free": true,
+    "description": "AI features built into Notion",
+    "tags": [
+      "productivity",
+      "notes"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "ElevenLabs",
+    "category": "AI Voice & TTS",
+    "icon": "🎙️",
+    "url": "https://elevenlabs.io",
+    "free": true,
+    "description": "Realistic AI voice generation",
+    "tags": [
+      "voice",
+      "tts",
+      "audio"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Suno",
+    "category": "AI Audio & Music",
+    "icon": "🎵",
+    "url": "https://suno.com",
+    "free": true,
+    "description": "Generate complete songs with AI",
+    "tags": [
+      "music",
+      "audio"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Perplexity",
+    "category": "AI Search Engines",
+    "icon": "🔎",
+    "url": "https://perplexity.ai",
+    "free": true,
+    "description": "AI-powered search with citations",
+    "tags": [
+      "search",
+      "research"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Runway",
+    "category": "AI Video Generation",
+    "icon": "🎬",
+    "url": "https://runwayml.com",
+    "free": true,
+    "description": "AI video generation and editing",
+    "tags": [
+      "video",
+      "creative"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Grammarly",
+    "category": "AI Writing Generation",
+    "icon": "✍️",
+    "url": "https://grammarly.com",
+    "free": true,
+    "description": "AI grammar and writing assistant",
+    "tags": [
+      "writing",
+      "grammar"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Otter.ai",
+    "category": "AI Meeting Notes",
+    "icon": "📝",
+    "url": "https://otter.ai",
+    "free": true,
+    "description": "AI meeting transcription",
+    "tags": [
+      "meetings",
+      "transcription"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Remove.bg",
+    "category": "AI Photo Editing",
+    "icon": "🖼️",
+    "url": "https://remove.bg",
+    "free": true,
+    "description": "Remove image backgrounds instantly",
+    "tags": [
+      "photo",
+      "editing"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Supabase",
+    "category": "AI Developer APIs",
+    "icon": "⚡",
+    "url": "https://supabase.com",
+    "free": true,
+    "description": "Open source Firebase alternative",
+    "tags": [
+      "database",
+      "backend",
+      "api"
+    ]
+  }
+]

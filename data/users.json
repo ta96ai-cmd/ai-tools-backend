@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@aitools.com",
+    "password": "$2b$10$hAFdP1txcjTHeJJ/XZiE9ue3Uc.fb24/PHKB0nzQMfFKWl07DdUiC",
+    "role": "admin",
+    "createdAt": "2026-03-27T10:07:06.425Z"
+  }
+]
